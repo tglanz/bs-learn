@@ -9,3 +9,6 @@ this project is for checking out the banshee framework; hopefuly will turn ot fo
 - cd build
 - cmake -G "some generator" ..
 - continue as usual
+
+## run
+as you normally run
